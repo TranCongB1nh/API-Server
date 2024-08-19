@@ -1,8 +1,8 @@
 module.exports = {
-    tasks: {
-      value: "/tasks",
-    },
-    login: {
+    // tasks: {
+    //   value: "/tasks",
+    // },
+    signup: {
       value: "/signup",
     },
   };

@@ -1,8 +1,10 @@
-var userRouter = require('./userRouter');
+
+
+var signupRouter = require('./signupRouter');
 
 var router = {
     run: function(req, res) {
-        userRouter.run(req, res);
+        signupRouter.run(req, res);
     }
 };
 
